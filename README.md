@@ -1,4 +1,4 @@
-# CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
+# CS3SY26_ProjectProposal by Dirk Go, Dani Halili, and Ishi Lumbao from 9 - Lithium
 ## Project Proposal Template:
 ### Project Title or Name of the Application : Biyaheng Pisay
 ### Section : 9 - Lithium
